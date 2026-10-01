@@ -1,0 +1,9 @@
+{
+  "provider": "mock",
+  "base_url": "https://api.openai.com/v1",
+  "api_key": "",
+  "model": "your-model-name",
+  "max_review_retries": 2,
+  "provider_attempts": 3,
+  "timeout_seconds": 60
+}
