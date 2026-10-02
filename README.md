@@ -166,3 +166,12 @@ The original design established the Coordinator–Workers multi-agent architectu
 This project was subsequently implemented and extended with a Story Dashboard, structured narrative planning, alternative story branches, and human-guided story development.
 
 The current work builds upon that original architecture while exploring character cognition, causal storytelling, and knowledge-driven narrative generation.
+
+## Video Walkthrough
+
+Watch this step-by-step demo to learn how to create a project, generate chapters, and export your story.
+
+[▶ Watch the video](https://youtu.be/wyDQsQiGoNI)
+
+
+
