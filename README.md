@@ -1,4 +1,4 @@
-﻿# AI Novel Generation System
+# AI Novel Generation System
 
 **A state-driven, multi-agent narrative engine with human-in-the-loop story planning.**
 
@@ -142,16 +142,6 @@ npm test
 npm run build
 ```
 
-## Implementation Reports and Limitations
-
-- [Phase 1 Implementation Report](docs/baseline_report.md): full data models, APIs, model configuration, validation results, and limitations.
-- [Story Dashboard Report](docs/phase2_story_dashboard_report.md): Phase 2 API additions, data compatibility, test results, and browser acceptance limitations.
-- [Narrative Planning Report](docs/phase3_narrative_planning_report.md): Phase 3 schemas, lifecycle, APIs, and validation results.
-
-These reports are currently in Chinese. Legacy unapproved drafts have no story-plan binding and must be discarded and replanned after upgrading. Existing approved history remains readable.
-
-The mock provider uses a fixed story about a traveler collecting waymarker stones, while preserving user settings in the lore and outline premise. It validates the workflow and does not represent actual novel interpretation or generation capabilities. To use a real model, configure an OpenAI-compatible provider as described in the Phase 1 report.
-
 ## Development Roadmap
 
 Phases 1–3 are implemented; Phase 4 and the subsequent items describe future directions.
@@ -176,5 +166,3 @@ The original design established the Coordinator–Workers multi-agent architectu
 This project was subsequently implemented and extended with a Story Dashboard, structured narrative planning, alternative story branches, and human-guided story development.
 
 The current work builds upon that original architecture while exploring character cognition, causal storytelling, and knowledge-driven narrative generation.
-#   N o v e l E n g i n e 
- 
