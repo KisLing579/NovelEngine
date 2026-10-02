@@ -176,5 +176,5 @@ The original design established the Coordinator–Workers multi-agent architectu
 This project was subsequently implemented and extended with a Story Dashboard, structured narrative planning, alternative story branches, and human-guided story development.
 
 The current work builds upon that original architecture while exploring character cognition, causal storytelling, and knowledge-driven narrative generation.
-#   N o v e l E n g i n e  
+#   N o v e l E n g i n e 
  
