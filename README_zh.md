@@ -71,7 +71,7 @@ Phase 3 的 schema、生命周期、API 与验证结果见 [Narrative Planning �
 
 Mock 使用固定的“旅人收集路标石”故事，保留用户设定用于 lore 和大纲 premise；它用于验证流程，不代表真实小说解析与生成能力。真实模型需配置 OpenAI-compatible Provider。
 ## 视频教程
-以下视频讲述从小说到视频的全流程教程
+观看这个分步演示教程，了解如何使用 Novel Engine 创建项目、生成章节并导出故事；使用 Mindawaker 将小说转换为多媒体素材；最后通过 Scene Studio + LTX 2.5 将这些素材制作成完整的视频。
 
 [▶ 观看视频](https://youtu.be/Cjfw1-kFnxc)
 
