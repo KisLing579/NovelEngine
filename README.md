@@ -171,7 +171,7 @@ The current work builds upon that original architecture while exploring characte
 
 Watch this step-by-step demo to learn how to create a project, generate chapters, and export your story.
 
-[▶ Watch the video](https://youtu.be/wyDQsQiGoNI)
+[▶ Watch the video](https://youtu.be/Cjfw1-kFnxc)
 
 
 
