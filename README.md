@@ -167,11 +167,11 @@ This project was subsequently implemented and extended with a Story Dashboard, s
 
 The current work builds upon that original architecture while exploring character cognition, causal storytelling, and knowledge-driven narrative generation.
 
+
 ## Video Walkthrough
 
-Watch this step-by-step demo to learn how to create a project, generate chapters, and export your story.
+Watch this step-by-step demo to learn how to create a project, generate chapters, and export your story with **Novel Engine**, transform your novel into multimedia assets with **Mindawaker**, and turn those assets into a video using **Scene Studio + LTX 2.5**.
 
 [▶ Watch the video](https://youtu.be/Cjfw1-kFnxc)
-
 
 
